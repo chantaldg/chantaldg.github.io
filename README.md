@@ -1,13 +1,9 @@
 # Chantal De Gracia - Data Analyst Portfolio
 
 ## About
-Hi, I'm Chantal! I am a double major in Software Engineering and Industrial and Systems Engineering. I have developed a strong foundation in both fields and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist.
+Hi, I'm Chantal! I am a double major in Software Engineering and Industrial and Systems Engineering. I have developed a strong foundation in both fields and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level junior data analyst.
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in software development, project management, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
-
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
-
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in [pdf](https://github.com/chantaldg/chantaldg.github.io/blob/main/CHANTAL%20DE%20GRACIA%20-%20CV%20-%202024.pdf) for a deeper dive into my profile.
 
 This is a repository to showcase skills, share projects, and track my progress in Data Analytics / Data Science related topics.
 
