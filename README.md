@@ -92,7 +92,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Results:** The project provided a thorough analysis of the vehicle dataset, highlighting key trends and insights. It demonstrated the use of various data science techniques to solve real-world problems.
 
 ### Análisis de Plazas Hoteleras en Andalucía 2019
-**Code:** [`Laboratorio N°7 (Informe).twb`](https://github.com/chantaldg/PortfolioProjects/blob/main/Laboratorio%20N7%20(Informe).twb) | [Tableau Public](https://public.tableau.com/app/profile/chantal.de.gracia/viz/AnlisisdePlazasHotelerasenAndalucaen2019/Dashboard1#1)
+**Code:** [Análisis de Plazas Hoteleras en Andalucía 2019 - Pubic Tableau link](https://public.tableau.com/app/profile/chantal.de.gracia/viz/AnlisisdePlazasHotelerasenAndalucaen2019/Dashboard1#1)
 
 **Goal:** To explore the potential of Tableau as a tool to support the data mining process.
 
@@ -116,7 +116,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Results:** The project highlighted the distribution of hotel plazas across Andalusia, identifying disparities in hotel capacity among provinces. The team proposed investing in additional hotel plazas in northern provinces to balance the distribution.
 
 ### Panatienda Analysis
-**Code:** [`Laboratorio N°8 (Informe).twb`](https://github.com/chantaldg/PortfolioProjects/blob/main/Laboratorio%20N8%20(Informe).twb) | [Tableau Public](https://public.tableau.com/app/profile/chantal.de.gracia/viz/PanatiendaAnalysis/VentasporDept)
+**Code:** [Panatienda Analysis - Tableau Public link](https://public.tableau.com/app/profile/chantal.de.gracia/viz/PanatiendaAnalysis/VentasporDept)
 
 **Goal:** To enhance the student's experience with Tableau to support various stages of the data mining process.
 
@@ -138,7 +138,7 @@ In this section, I will list data analytics projects briefly describing the tech
 **Results:** The project provided insights into sales performance across different departments and customer segments. It demonstrated the use of Tableau to visualize complex data and derive actionable insights for business decisions.
 
 ### Panatienda & Coffee Chain Analysis
-**Code:** [`Laboratorio N°9 (Informe).twb`](https://github.com/chantaldg/PortfolioProjects/blob/main/Laboratorio%20N9%20(Informe).twb) | [Tableau Public](https://public.tableau.com/app/profile/chantal.de.gracia/viz/PanatiendaCoffeeChainAnalysis/TopClientesvsVentas)
+**Code:** [Panatienda & Coffee Chain Analysis - Tableau Public link](https://public.tableau.com/app/profile/chantal.de.gracia/viz/PanatiendaCoffeeChainAnalysis/TopClientesvsVentas)
 
 **Goal:** To leverage Tableau's capabilities to support comprehensive data analysis and visualization tasks.
 
@@ -165,9 +165,8 @@ In this section, I will list data analytics projects briefly describing the tech
 - **Instituto Panamericano:** Bilingual Bachelor of Science (2007 - 2019)
 
 ## Certificates
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
+- [Learning Python by LinkedIn Learning](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?
+- [Excel: Power Query (Get & Transform]
 
 ## Contacts
 - LinkedIn: [@chantaldegracia](https://www.linkedin.com/in/chantaldegracia/)
