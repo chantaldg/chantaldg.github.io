@@ -165,8 +165,8 @@ In this section, I will list data analytics projects briefly describing the tech
 - **Instituto Panamericano:** Bilingual Bachelor of Science (2007 - 2019)
 
 ## Certificates
-- [Learning Python by LinkedIn Learning](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?
-- [Excel: Power Query (Get & Transform]
+- Learning Python by LinkedIn Learning
+- Excel: Power Query (Get & Transform)
 
 ## Contacts
 - LinkedIn: [@chantaldegracia](https://www.linkedin.com/in/chantaldegracia/)
